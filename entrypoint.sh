@@ -33,7 +33,7 @@ ret() { cat /tmp/capture.out; }
 
 check_by_test() {
 
-    teststring="Tests:"
+    teststring="Passing tests"
     # new solution, need to count number of tests that were run e.g.
     # a line that starts with "* test"
     # versus the number of tests total
